@@ -19,6 +19,9 @@
 
   
 }
+#container img {
+  margin-left: 102px;
+}
 body {
   background-color: black;
   margin: 0%;
